@@ -1,1 +1,4 @@
-revengedevice_asus_sdm660-common
+Copyright (C) 2020 - The LineageOS Project
+
+Common device tree for SDM660 based ASUS devices
+================================================
